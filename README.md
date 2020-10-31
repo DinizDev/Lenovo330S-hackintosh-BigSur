@@ -21,7 +21,7 @@ Files needed for hackintosh installation on lenovo 330S.
 
 
 ![img](https://i.imgur.com/jPUZKG6.png)
-![img](https://imgur.com/de686a44-64cf-45b9-b9e9-9c6f4eb84da2)
+![img](https://i.imgur.com/gzaDCD6.png)
 
 
 ## Credits
