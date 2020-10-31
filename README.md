@@ -27,4 +27,4 @@ Files needed for hackintosh installation on lenovo 330S.
 
 - **Special Thanks** to [Acidanthera](https://github.com/acidanthera) for most of the Kexts.
 - **Special Thanks** to [RehabMan](https://github.com/RehabMan).
-- [Hackintosh Brasil] (https://hackintoshbrasil.com)
+- Hackintosh Brasil to (https://hackintoshbrasil.com)
