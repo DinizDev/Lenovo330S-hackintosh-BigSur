@@ -5,8 +5,8 @@ Files needed for hackintosh installation on lenovo 330S.
 ## What's Working...
 ```
 ```
-⚡ACPI Display brightness with hot keys / slider
-⚡Audio & headphone jack
+- ⚡ACPI Display brightness with hot keys / slider
+- ⚡Audio & headphone jack
 ⚡CPU Speedstep (XCPM)
 ⚡Internal SD card Reader
 ⚡HDMI + Audio
