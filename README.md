@@ -14,7 +14,7 @@ Files needed for hackintosh installation on lenovo 330S.
 - ⚡Smart Touchpad + Gestures
 - ⚡Usb 3.0 + Type C
 - ⚡WiFi TP LINK TL-WN725N
-- ⚡Bluetooth
+- ⚡Intel Bluetooth
 - ⚡Battery Management
 - ⚡UHD 620
 ```
